@@ -2,3 +2,4 @@
 
 ##
 
+Uma biblioteca em Kotlin que visa facilitar o acesso à <a href="https://github.com/BrasilAPI/BrasilAPI">BrasilAPI</a>
